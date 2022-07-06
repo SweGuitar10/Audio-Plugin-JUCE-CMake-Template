@@ -1,4 +1,4 @@
-# Audio-Plugin-JUCE-Template
+# Audio-Plugin-JUCE-CMake-Template
 Template for JUCE Audio Plugins (CMake) using the AudioPluginExample  
 Uses the JUCE framework as a submodule  
 
